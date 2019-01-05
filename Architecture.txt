@@ -1,0 +1,4 @@
+Program Architecture 
+
+Mac and Linus: etc/hosts 
+Windows: Windows\System32\drivers\etc 
